@@ -40,7 +40,7 @@ export const appConfig = {
     // Model display names
     modelDisplayNames: {
       'openai/gpt-5': 'GPT-5',
-      'moonshotai/kimi-k2-instruct': 'Kimi K2 Instruct',
+      'moonshotai/kimi-k2-instruct': 'Groq-Kimi K2 Instruct',
       'anthropic/claude-sonnet-4-20250514': 'Sonnet 4'
     },
     
